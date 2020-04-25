@@ -1,9 +1,6 @@
 {
   "coffee": [
-    {
-      "type": "Frappe",
-      "name": "Dalgona"
-    },
+    { "name": "Dalgona", "place": "Korea", "location": { "address": "san em gean 23", "city": "Korea", "latitude": 1.2985181, "longitude": 103.8332306 }, "tastingRating": { "aroma": -1, "body": -1, "flavor": -1, "intensity": -1, "sweetness": -1, "aftertaste": -1 }, "type": "Ristretto", "rating": 7, "notes": "this is delicisou!!" },
      {
       "id": "Amaricano",
       "title": "Espressson"

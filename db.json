@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "coffee": [
     {
-      "id": 1,
-      "title": "hello"
+      "type": "Frappe",
+      "name": "Dalgona"
+    },
+     {
+      "id": "Amaricano",
+      "title": "Espressson"
     }
   ],
   "profile": {
